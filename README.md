@@ -14,17 +14,9 @@ The data is transformed into new data and then it's extracted by ETL processes i
 
 <ul>
   <li>Record of leads or interested that requested information for Automotive Electricity and Solar Panels</li>
-</ul>
-<ul>
   <li>Record of leads or interested that requested information for Fiberglass Repair and Motorcycles</li>
-</ul>
-<ul>
   <li>Funnel Sales for the courses of Automotive Electricity and Solar Panels</li>
-</ul>
-<ul>
   <li>Funnel Sales for the courses of Fiberglass Repair and Motorcycles</li>
-</ul>
-<ul>
   <li>Reach and Impressions for the courses of Automotive Electricity and Solar Panels</li>
 </ul>
 
