@@ -1,4 +1,4 @@
-# PowerBi-MarketingCampaigns-MT
+# PowerBI-MarketingCampaigns-MT
 
 <h1> Data visualization of Marketing Campaigns by using Power BI</h1>
 
