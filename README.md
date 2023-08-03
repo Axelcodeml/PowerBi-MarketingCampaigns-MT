@@ -4,7 +4,7 @@
 
 Milenium Tech is an education enterprise in the mechanic and automotive areas that requires to attract new students that want to study in their innovative courses.
 
-By means of support of a new marketing team of strategies: marketers, publishers, and community managers. Social media has been one of the principal tools to launch campaigns that be shown to the public about the new courses that Milenium Tech Institute has prepared for the public. Facebook has been selected as the main social media and the community management team has required to measure how advisement posts are performing.
+By means of support of a new marketing team of strategies: marketers, publishers, and community managers. Social media has been one of the principal tools to launch campaigns and be shown to the public about the new courses that Milenium Tech Institute has prepared for the public. Facebook has been selected as the main social media and the community management team has required to measure how advisement posts are performing.
 
 For that, the enterprise has one CRM software where the data is stored and managed in the Postgres program. With the SQL commands the necessary data is downloaded and then pre-processed in a script of Python, specifically in Notebook.
 
@@ -18,14 +18,35 @@ The data is transformed into new data and then it's extracted by ETL processes i
   <li>Funnel Sales for the courses of Automotive Electricity and Solar Panels</li>
   <li>Funnel Sales for the courses of Fiberglass Repair and Motorcycles</li>
   <li>Reach and Impressions for the courses of Automotive Electricity and Solar Panels</li>
-  <li>Cost trough clic (CTC) and Expenses by Campaign</li>  
+  <li>Cost through clic (CTC) and Expenses by Campaign</li>  
 </ol>
 
 <h3>1. Record of leads or interested that requested information for Automotive Electricity and Solar Panels</h3>
+<blockquote>
+  <img src="Images/TrackingCampaing1.JPG" alt="">
+</blockquote>
 
+<h3>2. Record of leads or interested that requested information for Fiberglass Repair and Motorcycles</h3>
+<blockquote>
+  <img src="Images/TrackingCampaing2.JPG" alt="">
+</blockquote>
+
+<h3>3. Funnel Sales for the courses of Automotive Electricity and Solar Panels</h3>
 <blockquote>
   <img src="Images/Inscritos1.JPG" alt="">
 </blockquote>
 
+<h3>4. Funnel Sales for the courses of Fiberglass Repair and Motorcycles</h3>
+<blockquote>
+  <img src="Images/Inscritos2.JPG" alt="">
+</blockquote>
 
+<h3>5. Reach and Impressions for the courses of Automotive Electricity and Solar Panels</h3>
+<blockquote>
+  <img src="Images/Impressions1.JPG" alt="">
+</blockquote>
 
+<h3>6. Cost through clic (CTC) and Expenses by Campaign</h3>
+<blockquote>
+  <img src="Images/ClicsRate.JPG" alt="">
+</blockquote>
