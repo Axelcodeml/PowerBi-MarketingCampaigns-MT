@@ -1,0 +1,242 @@
+"camp_id","segc_cliente","segc_telefono","segc_medio_informacion","segc_estado","segc_fecha_solicitud","segc_fecha_seguimiento","segc_ultimo_seguimiento","segc_motivo_curso","segc_motivos_no_matricula","segc_proxima_llamada","segc_ubicacion_llamada","segc_trabaja_en_area"
+37,"Stalin Lema","0986308318","MED02","CONTAC01","2023-06-20","2023-06-22"," no contesta",NULL,NULL,NULL,NULL,False
+37,"Alexis Armas","0992897963","MED02","CONTAC01","2023-06-20","2023-07-06","no contesta","PAQ01",NULL,NULL,NULL,False
+37,"Joffre Pico","0990570944","MED02","CONTAC03","2023-06-20","2023-07-15","Pago 70 TBI el 14 julio","PAQ01","Certificaci�n",NULL,"UDOM05",True
+37,"Ramiro Javier Arias","0968888369","MED02","CONTAC04","2023-06-21","2023-07-06","envio informacion para deposito",NULL,NULL,NULL,NULL,False
+37,"Bryan Andres","0992969100","MED02","CONTAC05","2023-06-21","2023-07-06","no puede los sabados","PAQ01",NULL,NULL,NULL,True
+37,"Francisco Caiza López","0997453858","MED02","CONTAC05","2023-06-21","2023-07-06","desea de electronica","PAQ02",NULL,NULL,NULL,True
+37,"Angel Paucar","0984361582","MED02","CONTAC01","2023-06-21","2023-07-04","no contesta","PAQ01",NULL,NULL,NULL,True
+38,"Juan Abad","0983010838","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"s/n","0995788322","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Wilson Gualoto","0991481899","MED02","CONTAC01","2023-06-21","2023-06-26","no contesta",NULL,NULL,NULL,NULL,False
+38,"Juan/Diego","0996541611","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Gerardo","0964059336","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Kai-zen Realty","593958848641","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"s/n","0996058242","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Walter","0983027266","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"s/n","099 567 7839","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Cecilia Arias Caiza","0995312179","MED02","CONTAC05","2023-06-21","2023-07-04","el hijo ya entro a la universidad y no puede por el horario",NULL,NULL,NULL,NULL,False
+38,"s/n","0988136142","MED02","CONTAC01","2023-06-21","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Bryan Santafe","0962668688","MED02","CONTAC04","2023-06-21","2023-07-06","envio informacion para deposito",NULL,NULL,NULL,NULL,False
+37,"Dario Chafla","+593990710971","MED02","CONTAC01","2023-06-22","2023-06-22","Info enviada",NULL,NULL,NULL,NULL,False
+38,"s/n","+593979201806","MED02","CONTAC01","2023-06-22","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"MG Eléctricos","+593980092678","MED02","CONTAC01","2023-06-22","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Peña Armando","0978979258","MED02","CONTAC05","2023-06-22","2023-07-06","no puede los sabados",NULL,NULL,NULL,NULL,False
+37,"KEvin M Oña Jácome","+593979229978","MED02","CONTAC01","2023-06-22","2023-07-06","no contesta",NULL,NULL,NULL,NULL,False
+37,"Wilmer Cuenca Macas","+593986233337","MED02","CONTAC04","2023-06-22","2023-07-06","envio al whatsapp para la transferencia",NULL,NULL,NULL,NULL,False
+37,"Fredy Eduardo Carua Chilig","+593986078009","MED02","CONTAC01","2023-06-22","2023-07-04","informacion enviada por whatsapp pendiente que nos de respuesta",NULL,NULL,NULL,NULL,False
+37,"Gavidia Edwin","+593958747114","MED02","CONTAC01","2023-06-22","2023-07-04","telefono apagado",NULL,NULL,NULL,NULL,False
+38,"Cristian","+593982896854","MED02","CONTAC01","2023-06-22","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Cristian Guaman","0991698783","MED02","CONTAC04","2023-06-22","2023-07-06","envio informacion para deposito",NULL,NULL,NULL,NULL,False
+37,"Diego Guaylla","0962627484","MED02","CONTAC03","2023-06-22","2023-06-29","Quiere instalar taxímetros",NULL,NULL,NULL,NULL,False
+38,"Paul Molina","0993072511","MED02","CONTAC01","2023-06-22","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Darwin Aviles","0979734740","MED02","CONTAC01","2023-06-22","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Juanka","0992279698","MED02","CONTAC01","2023-06-22","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"David Sigchos","+593997669703","MED02","CONTAC04","2023-06-22","2023-07-06","llamar el viernes para ver si se anima",NULL,NULL,NULL,NULL,False
+37,"Jhojan Ormaza","+593998764349","MED02","CONTAC01","2023-06-22","2023-07-04","no contesta",NULL,NULL,NULL,NULL,False
+37,"luiggi","+593979367083","MED02","CONTAC02","2023-06-22","2023-07-11","No puede por el trabajo.",NULL,"Horarios","2023-07-12",NULL,False
+37,"Mayra Alulema","+593995876257","MED02","CONTAC01","2023-06-22","2023-07-06","envio de informacion al whatsapp ",NULL,NULL,NULL,NULL,False
+37,"Mariano Farinango","0992759701","MED02","CONTAC04","2023-06-22","2023-07-06","llamar el sabado para deposito en la cuenta",NULL,NULL,NULL,NULL,False
+37,"Enrique Pupiales","+593994248754","MED02","CONTAC01","2023-06-22","2023-07-06","no contesta",NULL,NULL,NULL,NULL,False
+37,"saul velaña","+593983832046","MED02","CONTAC01","2023-06-23","2023-07-04","no contesta",NULL,NULL,NULL,NULL,False
+38,"s/n","+593985580962","MED02","CONTAC02","2023-06-23","2023-07-03","Desea comprar paneles",NULL,NULL,NULL,NULL,False
+37,"William Arroba","+593999066975","MED02","CONTAC04","2023-06-23","2023-07-04","el jueves deposita en la cuenta",NULL,NULL,NULL,NULL,False
+38,"s/n","+593983046385","MED02","CONTAC01","2023-06-23","2023-07-06","no contesta 1era llamada",NULL,NULL,NULL,NULL,False
+38,"Frank Castle","+593969649097","MED02","CONTAC01","2023-06-23","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"s/n","+593989063574","MED02","CONTAC01","2023-06-23","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Fredy Oña","+593998162899","MED02","CONTAC01","2023-06-23","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Diego Chicaiza","+593985050111","MED02","CONTAC03","2023-06-23","2023-06-29","Deposito 25 al BI",NULL,NULL,NULL,NULL,False
+38,"Livingston Bravo","+593995554405","MED02","CONTAC01","2023-06-23","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"s/n","+593995197236","MED02","CONTAC01","2023-06-23","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Boris","+593984524924","MED02","CONTAC01","2023-06-23","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Ana Lara","+593985814923","MED02","CONTAC03","2023-06-23","2023-07-27","Instalar en una casa-campo","PAQ02",NULL,NULL,NULL,False
+37,"David","+593993219485","MED02","CONTAC01","2023-06-23","2023-07-04","esta ocupado volver a llamar",NULL,NULL,NULL,NULL,False
+38,"Ricardo Medina","+593993120178","MED02","CONTAC04","2023-06-24","2023-07-06","proximo miercoles 12 para el deposito","PAQ01",NULL,NULL,NULL,False
+38,"Carlos","+593958880127","MED02","CONTAC01","2023-06-24","2023-07-06","no contesta",NULL,NULL,NULL,NULL,False
+37,"Jeniffer Polo","0979393228","MED02","CONTAC03","2023-06-24","2023-06-24","pagado la mtricula",NULL,NULL,NULL,NULL,False
+38,"Tito Saltos","+593992874143","MED02","CONTAC04","2023-06-24","2023-07-06","queda pendiente hasta el 15","PAQ01",NULL,NULL,NULL,False
+38,"Jhonatan Arias","+593963866446","MED02","CONTAC01","2023-06-24","2023-07-06","no contesta 2da llamada",NULL,NULL,NULL,NULL,False
+38,"Francisco Toapanta","+593998005546","MED02","CONTAC01","2023-06-24","2023-07-06","no contesta primera llamada",NULL,NULL,NULL,NULL,False
+38,"Darwin","+593960095939","MED02","CONTAC05","2023-06-26","2023-07-06","no puede esta trabajando en el oriente",NULL,NULL,NULL,NULL,False
+38,"Edgar Ushco","+593985981227","MED02","CONTAC02","2023-06-26","2023-07-06","solicita curso de reparacion paneles solares",NULL,"No tiene inter�s",NULL,NULL,False
+37,"omar rodriguez","+593959109960","MED02","CONTAC05","2023-06-26","2023-07-04","para la proxima no cuenta con dinero",NULL,NULL,NULL,NULL,False
+37,"Jacinto Semblantes","+593992652535","MED08","CONTAC01","2023-06-26","2023-07-04","no contesta",NULL,NULL,NULL,NULL,False
+37,"Carlos Alberto Palacios Puruncajas","+593939060720","MED02","CONTAC04","2023-06-26","2023-07-11","Viene mañana 12-07-2023. Para él y su hijo",NULL,NULL,"2023-07-12",NULL,False
+37,"Carlos Oswaldo Ushiña","+593980095377","MED02","CONTAC01","2023-06-26","2023-06-26","Info enviada",NULL,NULL,NULL,NULL,False
+37,"s/n","+593984496722","MED02","CONTAC01","2023-06-26","2023-07-04","llamar el viernes",NULL,NULL,NULL,NULL,False
+37,"Pilataxi Deyvi","+593983924334","MED02","CONTAC01","2023-06-26","2023-07-04","no contesta",NULL,NULL,NULL,NULL,False
+37,"Luis Maiguashca","+593984643966","MED08","CONTAC05","2023-06-26","2023-07-04","trabajo los sabados y no puede",NULL,NULL,NULL,NULL,False
+37,"s/n","+593984513319","MED03","CONTAC01","2023-06-26","2023-07-04","no contesta",NULL,NULL,NULL,NULL,False
+37,"Cristian","+593987355327","MED08","CONTAC05","2023-06-27","2023-07-04","no tiene dinero",NULL,NULL,NULL,NULL,False
+38,"s/n","+593984329305","MED02","CONTAC04","2023-06-27","2023-07-06","informacion enviada por whatsapp pendiente que nos de respuesta",NULL,NULL,NULL,NULL,False
+37,"Carina Escobar","+593983955855","MED02","CONTAC03","2023-06-30","2023-07-15","Matriculado pago 70 efectivo",NULL,NULL,NULL,NULL,False
+37,"Patricio Coro Collaguazo","+5930985445338","MED02","CONTAC01","2023-06-30","2023-06-30","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Fabian Ortiz","+593968621440","MED02","CONTAC03","2023-06-30","2023-07-15","Pago 70 TBP","PAQ02",NULL,NULL,NULL,False
+37,"Ethan Rotman","+593983873890","MED02","CONTAC01","2023-06-30","2023-06-30","Info enviada",NULL,NULL,NULL,NULL,False
+38,"Jose","+593984046473","MED02","CONTAC01","2023-06-30","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Orlando","+593978719116","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Paul Oña","+593983563456","MED02","CONTAC01","2023-07-01","2023-07-01","Info enviada",NULL,NULL,NULL,NULL,False
+38,"Franklin","+593969513834","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Lucho","+593998764641","MED02","CONTAC01","2023-07-01","2023-07-01","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Segundo Vega","+593987084685","MED02","CONTAC01","2023-07-01","2023-07-01","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Fredd Rosero","+593993642302","MED02","CONTAC01","2023-07-01","2023-07-01","Info enviada",NULL,NULL,NULL,NULL,False
+37,"David Tipantuña","+593983058535","MED02","CONTAC01","2023-07-01","2023-07-01","Info enviada",NULL,NULL,NULL,NULL,False
+38,"s/n","+593998455172","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"s/n","+593979357723","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Rocio Delgado Amaguaña","+593992947738","MED02","CONTAC01","2023-07-01","2023-07-01","Info enviada",NULL,NULL,NULL,NULL,False
+38,"Luis Quimbiamba","+593996365071","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Fabian","+593985445338","MED02","CONTAC01","2023-07-01","2023-07-01","info enviada",NULL,NULL,NULL,NULL,False
+38,"Javier Salguero","+593995887415","MED02","CONTAC03","2023-07-01","2023-07-04","Abonado 50 para dos personas Salguero y Trujillo",NULL,NULL,NULL,NULL,False
+38,"Pablo","+593995863327","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Oscar","+593963481246","MED02","CONTAC01","2023-07-01","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Samy Muñoz","+593995419763","MED02","CONTAC01","2023-07-02","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Alexander Sandoval","+593992683750","MED02","CONTAC01","2023-07-02","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Danilo navas","+593989156059","MED02","CONTAC01","2023-07-02","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+38,"Elvi Zavala","+593978969508","MED02","CONTAC01","2023-07-02","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Luis Eduardo Moina Quinapallo","+593987282244","MED02","CONTAC01","2023-07-02","2023-07-02","info enviada",NULL,NULL,NULL,NULL,False
+37,"Santiago Taco","+593983381988","MED02","CONTAC01","2023-07-02","2023-07-02","Info enviada",NULL,NULL,NULL,NULL,False
+37,"s/n","+593986884779","MED02","CONTAC01","2023-07-02","2023-07-02","Envío de información y precio.",NULL,NULL,NULL,NULL,False
+37,"Mauro Batalla","+593960951119","MED06","CONTAC03","2023-07-02","2023-07-06","Transferencia BP 70",NULL,NULL,NULL,NULL,False
+37,"Luis","+593995030608","MED02","CONTAC01","2023-07-02","2023-07-02","Info enviada",NULL,NULL,NULL,NULL,False
+38,"Luis Caiza","+593967576707","MED06","CONTAC01","2023-07-02","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Fernando Chas-Miy","+593989424285","MED02","CONTAC01","2023-07-02","2023-07-02","Info enviada",NULL,NULL,NULL,NULL,False
+38,"s/n","+593987074866","MED06","CONTAC01","2023-07-02","2023-07-03","1er recordatorio enviado",NULL,NULL,NULL,NULL,False
+37,"Riky Iglesias","+593999297528","MED02","CONTAC01","2023-07-03","2023-07-03","Info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593960081614","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Eduardo","+593969755952","MED07","CONTAC02","2023-07-04","2023-07-18","Número suspendido. No responde mensajes",NULL,"No tiene inter�s","2023-07-18",NULL,False
+39,"Xavier Madril","+593998325520","MED02","CONTAC05","2023-07-04","2023-07-18","No puede por circunstancias de trabajo. Para el mes de agosto sí.",NULL,"Horarios",NULL,NULL,False
+37,"Fernando carriel","+593992973129","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Victor Dueñas","+593989910276","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Wilmer","+593998933638","MED02","CONTAC02","2023-07-04","2023-07-18","Se matriculó en otro lado.",NULL,"No tiene inter�s","2023-07-18",NULL,False
+39,"Andres","+593986133597","MED02","CONTAC05","2023-07-04","2023-07-18","Desea curso avanzado. Talvez para curso reparación de motores.","PAQ01",NULL,NULL,NULL,True
+37,"David Yungan","+593992934347","MED02","CONTAC03","2023-07-04","2023-07-08","Quiere aprender electricidad para autolujos","PAQ02",NULL,NULL,"UDOM05",True
+38,"s/n","+593987803040","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Mateo Navas","+593978833962","MED02","CONTAC02","2023-07-04","2023-07-18","No puede domingos.",NULL,"Horarios","2023-07-18",NULL,False
+39,"Jefferson Cagua","+593994797578","MED02","CONTAC05","2023-07-04","2023-07-15","proxima ocasion",NULL,NULL,NULL,NULL,False
+38,"Sandra Ariel","+593998535829","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Cristian Tubon","+593939849383","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Byron Patricio","+593987294960","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Jhon Criollo","+593986203966","MED02","CONTAC01","2023-07-04","2023-07-18","Celular fuera de cobertura. Volver a intentar",NULL,NULL,"2023-07-18",NULL,False
+37,"Emerson Aguilar","+593999856043","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Esteban","+593967680421","MED02","CONTAC02","2023-07-04","2023-07-18","No puede porque trabaja fines de semana",NULL,"Horarios",NULL,NULL,False
+39,"s/n","+593996716546","MED02","CONTAC01","2023-07-04","2023-07-04","Info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593962596852","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada ",NULL,NULL,NULL,NULL,False
+39,"Juan Alvarado","+593984063214","MED02","CONTAC02","2023-07-06","2023-07-20","No tiene interés.",NULL,"No tiene inter�s",NULL,NULL,False
+39,"s/n","+593987857057","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593993783271","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Edgar Cualchi","+593991910724","MED02","CONTAC04","2023-07-06","2023-07-19","De Cayambe",NULL,NULL,"2023-07-19",NULL,False
+37,"Edwin Sarabia","+593980440348","MED03","CONTAC05","2023-07-06","2023-07-06","Necesita horario de lunes a jueves estar pendiente para el próximo inicio en ese horario",NULL,NULL,NULL,NULL,False
+39,"Lida Ortega","+593992412908","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593963792758","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Maxwell Ortega","+593983941000","MED02","CONTAC03","2023-07-06","2023-07-06","Pagado 35 TBP, venta Alex",NULL,NULL,NULL,NULL,False
+39,"Robinson Alban","+593962301705","MED02","CONTAC02","2023-07-06","2023-07-18","No tiene dinero.","PAQ02","Precio alto","2023-07-19",NULL,False
+39,"s/n","+593983448994","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Maxwell ","+593978756290","MED02","CONTAC03","2023-07-06","2023-07-19","Matriculado",NULL,NULL,NULL,NULL,False
+39,"Milton","+593981670310","MED02","CONTAC04","2023-07-06","2023-07-19","Llamar mañana a las 5 pm",NULL,NULL,"2023-07-20",NULL,False
+38,"s/n","+593981294679","MED02","CONTAC01","2023-07-06","2023-07-06","info enviada",NULL,NULL,NULL,NULL,False
+38,"Diego Abad","+593995561133","MED02","CONTAC04","2023-07-06","2023-07-06","Vienes miercoles 12 a reservar su cupo",NULL,NULL,NULL,NULL,False
+39,"oswaldo González","+593963511972","MED02","CONTAC01","2023-07-06","2023-07-19","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+39,"Steven Villalta","+593968948811","MED02","CONTAC02","2023-07-06","2023-07-19","No tiene interés","PAQ05","No tiene inter�s",NULL,NULL,False
+39,"Jhonatan","+593992763061","MED02","CONTAC01","2023-07-06","2023-07-19","Volver a llamar a las 4 pm",NULL,NULL,"2023-07-19",NULL,False
+39,"Diego Panchi","+593963062712","MED07","CONTAC02","2023-07-06","2023-07-18","No contesta.",NULL,"No tiene inter�s",NULL,NULL,False
+39,"Edwin Castillo","+593999368789","MED02","CONTAC02","2023-07-06","2023-07-19","No tiene dinero.",NULL,"Precio alto",NULL,NULL,False
+38,"s/n","+593983344112","MED02","CONTAC01","2023-07-06","2023-07-06","info enviada",NULL,NULL,NULL,NULL,False
+38,"s/n","+593992711702","MED02","CONTAC01","2023-07-06","2023-07-06","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Alejo","+593996673651","MED02","CONTAC01","2023-07-06","2023-07-20","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+37,"Miguel Guaraca","+593990924502","MED03","CONTAC01","2023-07-06","2023-07-06","info enviada",NULL,NULL,NULL,NULL,False
+39,"Joel","+593994983912","MED02","CONTAC01","2023-07-07","2023-07-20","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+37,"Carlos Enriquez","+5930985622081","MED02","CONTAC01","2023-07-07","2023-07-07","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Antonio Asitimbay","+593995864441","MED02","CONTAC02","2023-07-07","2023-07-19","Sale de viaje y no puede asistir",NULL,"Horarios",NULL,NULL,False
+39,"Stalin","+593997346317","MED02","CONTAC02","2023-07-07","2023-07-18","no tiene interés",NULL,"No tiene inter�s","2023-07-18",NULL,False
+39,"Wilson Pilco","+593991895810","MED02","CONTAC02","2023-07-07","2023-07-19","Sale de viaje.","PAQ04","Horarios",NULL,NULL,False
+39,"Gonzalo Remache","+593958801598","MED02","CONTAC02","2023-07-07","2023-07-19","Va trabajar domingo a domingo durante un mes","PAQ03","Horarios",NULL,NULL,False
+37,"Cesar Chavez","+593984525985","MED02","CONTAC03","2023-07-10","2023-07-10","matriculado pago 70 efectivo",NULL,NULL,NULL,NULL,False
+39,"Flores","+593958623016","MED02","CONTAC02","2023-07-10","2023-07-20","No puede.",NULL,"No tiene inter�s",NULL,NULL,False
+38,"Pamela Tuarez","+593939702829","MED02","CONTAC05","2023-07-10","2023-07-11","para agosto",NULL,NULL,NULL,NULL,False
+38,"s/n","+593984384678","MED02","CONTAC01","2023-07-10","2023-07-10","Info enviada",NULL,NULL,NULL,NULL,False
+38,"Ronald","+593985954641","MED02","CONTAC01","2023-07-10","2023-07-10","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Marco","+593959260539","MED02","CONTAC02","2023-07-10","2023-07-19","No tiene dinero. Está buscando trabajo","PAQ04","Precio alto","2023-07-20",NULL,False
+38,"Jose Luis Pedraza","+593992568327","MED07","CONTAC01","2023-07-10","2023-07-10","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Michelle Muñoz","+593996999967","MED02","CONTAC02","2023-07-10","2023-07-18","Número equivocado",NULL,"Equivocado","2023-07-18",NULL,False
+39,"Leo","+593988789072","MED02","CONTAC05","2023-07-10","2023-07-19","No tiene dinero. Para otra fecha desea.","PAQ04",NULL,"2023-07-20",NULL,False
+37,"Diego Javier Yugsi Llano","+593960235111","MED03","CONTAC03","2023-07-11","2023-07-11","Transferencia el 11-07-2023
+Banco de Guayaquil. Diego Yugsi Llano.
+Buscaba en electricidad y electrónica automotriz y se enteró por google de nosotros",NULL,NULL,NULL,NULL,False
+37,"Víctor Dueñas","0989910276","MED02","CONTAC04","2023-07-11","2023-07-11","Va a depositar mañana 12-07-2023",NULL,NULL,"2023-07-12",NULL,False
+38,"s/n","+593968322435","MED02","CONTAC01","2023-07-11","2023-07-11","info enviada",NULL,NULL,NULL,NULL,False
+38,"s/n","+593998764641","MED02","CONTAC01","2023-07-11","2023-07-11","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Alexander Cjc","+593968308467","MED02","CONTAC01","2023-07-12","2023-07-12","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Daniel Fajardo","+5930984479707","MED02","CONTAC01","2023-07-12","2023-07-12","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Fernando Sandoval","+593969353772","MED02","CONTAC01","2023-07-12","2023-07-12","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Inti Arotingo","+593958860565","MED02","CONTAC01","2023-07-12","2023-07-12","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Mauricio Colango","+593997843826","MED02","CONTAC01","2023-07-12","2023-07-12","Info enviada",NULL,NULL,NULL,NULL,False
+37,"byron javier galarza llive","+593987715789","MED02","CONTAC01","2023-07-12","2023-07-12","Info enviada",NULL,NULL,NULL,NULL,False
+37,"Francisco Caiza López","+5930997453858","MED02","CONTAC01","2023-07-12","2023-07-12","info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593968114661","MED02","CONTAC01","2023-07-15","2023-07-15","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Paul Crespo","+593987428974","MED02","CONTAC04","2023-07-15","2023-07-19","Visita mañana a la 13h00.","PAQ02",NULL,NULL,NULL,False
+39,"Edwin Viracocha","+593987840366","MED02","CONTAC05","2023-07-15","2023-07-19","Desearía mecánica de motores","PAQ01",NULL,NULL,NULL,True
+39,"s/n","+593969404717","MED07","CONTAC01","2023-07-15","2023-07-15","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Silvia Tixe","+593996667475","MED02","CONTAC02","2023-07-15","2023-07-19","No tiene dinero",NULL,"Precio alto",NULL,NULL,False
+39,"Fernando Lara","+593959000110","MED02","CONTAC01","2023-07-15","2023-07-19","No contesta 1ra llamada",NULL,NULL,NULL,NULL,False
+39,"Jorge Sanchez","+593997321033","MED02","CONTAC02","2023-07-15","2023-07-19","Curioso",NULL,"No tiene inter�s",NULL,NULL,False
+39,"Juan","+593990802617","MED02","CONTAC04","2023-07-15","2023-07-19","Esperando depósito","PAQ04",NULL,"2023-07-20",NULL,False
+39,"s/n","+593959998981","MED02","CONTAC01","2023-07-15","2023-07-15","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Jordan Naranjo","+593962620306","MED02","CONTAC02","2023-07-18","2023-07-20","No puede por horarios rotativos.","PAQ04","Horarios",NULL,NULL,False
+39,"Esteban","+593995748903","MED07","CONTAC01","2023-07-18","2023-07-20","No contesta 1ra llamada.",NULL,NULL,NULL,NULL,False
+39,"Mateo","+593999804033","MED02","CONTAC01","2023-07-18","2023-07-20","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+39,"Franklin Campania","+593983491030","MED02","CONTAC04","2023-07-18","2023-07-19","Volver a llamar viernes porque tiene que coordinar su trabajo. Muy Interesado.",NULL,NULL,"2023-07-21",NULL,False
+39,"s/n","+593984307632","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Bolivar Mina","+593992663010","MED02","CONTAC04","2023-07-18","2023-07-20","Nos vuelve a llamar.","PAQ04","No tiene inter�s",NULL,NULL,False
+39,"s/n","+593984249933","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593979326666","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"José Encarnación","+593979039956","MED02","CONTAC05","2023-07-18","2023-07-19","No puede, porque trabaja sábado.","PAQ04",NULL,NULL,NULL,False
+39,"s/n","+593997622810","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Carlos T","+593967089601","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Ivan","+593979664987","MED02","CONTAC02","2023-07-18","2023-07-20","Ya matriculó en otro lado.",NULL,"No tiene inter�s",NULL,NULL,False
+39,"Victor Barrionuevo","+593958945791","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"s/n","+593963746626","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Carlos","+593990421485","MED02","CONTAC01","2023-07-18","2023-07-19","No contesta 1ra llamada.",NULL,NULL,"2023-07-19",NULL,False
+39,"Darwin Vera","+593992947522","MED02","CONTAC04","2023-07-18","2023-07-19","Volver a llamar hoy 7 pm",NULL,NULL,"2023-07-19",NULL,False
+39,"s/n","+593990580864","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Jhoana Ayala","+593969403925","MED02","CONTAC02","2023-07-18","2023-07-19","No tiene plata.","PAQ01","Precio alto",NULL,NULL,True
+39,"s/n","+593995514679","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Henry Chamba","+593999501676","MED02","CONTAC05","2023-07-18","2023-07-20","Quiere un curso largo. Indicar de reparación de motores.",NULL,"No tiene inter�s",NULL,NULL,False
+39,"s/n","+593998623664","MED02","CONTAC01","2023-07-18","2023-07-18","Info enviada",NULL,NULL,NULL,NULL,False
+39,"Francisco","+593978650909","MED02","CONTAC04","2023-07-18","2023-07-20","Llamar viernes para ver si reune plata.","PAQ01",NULL,NULL,NULL,False
+39,"Luis Ilaquiche","+593939061678","MED02","CONTAC01","2023-07-20","2023-07-20","Info enviada",NULL,NULL,NULL,NULL,False
+40,"José Mendoza","+593991451068","MED02","CONTAC01","2023-07-20","2023-07-24","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+40,"Christian Padilla","+593987029720","MED02","CONTAC01","2023-07-20","2023-07-24","Celular apagado. Intentar vía mensaje.",NULL,NULL,NULL,NULL,False
+40,"Elio Wininger Coyuri Lopez","+51987053874","MED02","CONTAC01","2023-07-20","2023-07-20","Info enviada",NULL,NULL,NULL,NULL,False
+40,"Kinty Kan","+593998761685","MED02","CONTAC01","2023-07-20","2023-07-20","Info enviada",NULL,NULL,NULL,NULL,False
+40,"David Andrade","+593995372257","MED02","CONTAC05","2023-07-20","2023-07-31","Trabaja un mes en Cayambe.","PAQ04","Equivocado",NULL,NULL,False
+40,"Fer Zenay","+593983871035","MED02","CONTAC01","2023-07-20","2023-07-24","Celular apagado. Se intentó llamar por whatsapp.",NULL,NULL,NULL,NULL,False
+40,"Cesar Carlos Checa Palma","+593999108020","MED02","CONTAC01","2023-07-20","2023-07-24","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+40,"Luis Ilaquiche","+593939061678","MED02","CONTAC04","2023-07-20","2023-07-24","Viene a visitar el martes.","PAQ01",NULL,"2023-07-25",NULL,False
+40,"Mayra Castro","+593986531004","MED02","CONTAC05","2023-07-21","2023-07-31","Vive lejos Llano chico. Podría los fines de semana.","PAQ02",NULL,NULL,NULL,False
+40,"Wilson","+593960710002","MED02","CONTAC02","2023-07-21","2023-07-24","Busca solo Tunning.","PAQ01","Equivocado","2023-07-25",NULL,False
+40,"Juan B. Carrera","+593998292140","MED02","CONTAC05","2023-07-21","2023-07-21","para el proximo taller se le cruza el horario",NULL,NULL,NULL,NULL,False
+40,"Roberto Rosero","+593984036389","MED02","CONTAC01","2023-07-21","2023-07-26","No contesta ni teléfono, ni whatsapp.",NULL,NULL,NULL,NULL,False
+40,"Jorge Omar Silva Carrasco","+593999515408","MED02","CONTAC01","2023-07-21","2023-07-24","El celular es de una empresa, mas no propiedad de quien solicita la información.",NULL,NULL,NULL,NULL,False
+40,"César Logacho","+593985254363","MED02","CONTAC02","2023-07-22","2023-07-27","Es transportista, no puede entre semana. Busca horario fin de semana.","PAQ01","Horarios",NULL,NULL,False
+40,"Ronald Carranza","+593997115121","MED02","CONTAC04","2023-07-22","2023-07-24","Viene el miércoles a matricularse.",NULL,NULL,"2023-07-26",NULL,False
+40,"Vinicio Gp","+593999041922","MED02","CONTAC02","2023-07-22","2023-07-24","Número equivocado",NULL,"Equivocado",NULL,NULL,False
+40,"Henry Ayala","+593995521852","MED02","CONTAC01","2023-07-22","2023-07-24","Llamar tarde",NULL,NULL,"2023-07-25",NULL,False
+40,"saul velaña","+593983832046","MED02","CONTAC01","2023-07-24","2023-07-26","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+40,"Diego León","+593998823245","MED02","CONTAC01","2023-07-24","2023-07-26","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+40,"Juan Haro Vallejo","+593984972176","MED02","CONTAC03","2023-07-24","2023-07-25","TBI de 70, para Juan Haro 35 y Francisco Velastegui 35. ","PAQ02",NULL,NULL,NULL,True
+40,"Sandra Narvaez","+593984160661","MED02","CONTAC01","2023-07-24","2023-07-26","No contesta 2da llamada.",NULL,NULL,NULL,NULL,False
+40,"Michael Pico Treicer","+593990570944","MED02","CONTAC01","2023-07-24","2023-07-25","Don Joffre Pilco. Está en EAutomotriz, invitarlo en persona.",NULL,NULL,NULL,NULL,False
+40,"Andy Moreira","+593968050319","MED02","CONTAC01","2023-07-24","2023-07-25","No contesta 1ra llamada.",NULL,NULL,NULL,NULL,False
+40,"Luis Antonio","+593987805396","MED02","CONTAC02","2023-07-25","2023-07-26","Vive en Ponciano. Lo necesita para su empresa en cerámica y acabados.","PAQ01","Distancia",NULL,NULL,False
+40,"Santiago Mariño","+593999827475","MED02","CONTAC02","2023-07-26","2023-07-31","No puede por el trabajo.",NULL,"Horarios",NULL,NULL,False
+40,"Franklin Morales","+593958986866","MED02","CONTAC03","2023-07-27","2023-08-01","Tiene deshuesadero.","PAQ02",NULL,NULL,NULL,True
+40,"Johao Macias","+593984834247","MED02","CONTAC01","2023-07-27","2023-07-31","Colgó 1ra llamada.",NULL,NULL,NULL,NULL,False
+40,"Lorito Elizabeth","+593985516481","MED02","CONTAC01","2023-07-27","2023-07-31","Volver a llamar en 3 horas.",NULL,NULL,NULL,NULL,False
+40,"Jimmy Fernando Granda Quito","+593990199017","MED02","CONTAC02","2023-07-27","2023-07-31","No tiene interés.",NULL,"No tiene inter�s",NULL,NULL,False
+40,"Jairo","+593968160202","MED02","CONTAC01","2023-07-27","2023-07-31","No contesta 1ra llamada.",NULL,NULL,NULL,NULL,False
+40,"Kevin Pilaquinga","+593991134239","MED02","CONTAC01","2023-07-30","2023-07-31","No contesta 1ra. llamada.",NULL,NULL,NULL,NULL,False
+40,"Christian TB","+593962861127","MED02","CONTAC04","2023-07-30","2023-07-31","Volver a llamar en la tarde.",NULL,NULL,NULL,NULL,False
+40,"Gabriel Maila","+593995722318","MED02","CONTAC04","2023-07-30","2023-07-31","Confirma al mediodía.",NULL,NULL,NULL,NULL,False
+40,"Luis Paucar","+593983140744","MED02","CONTAC04","2023-07-30","2023-07-31","Esperando confirmación.",NULL,NULL,NULL,NULL,False
+40,"Willian Hernan Visvicus Riofrio","+593987973342","MED02","CONTAC01","2023-07-30","2023-07-31","No contesta 1ra llamada.",NULL,NULL,NULL,NULL,False
+40,"Mario Orbe","+593992504303","MED02","CONTAC01","2023-07-30","2023-07-30","Info enviada",NULL,NULL,NULL,NULL,False
