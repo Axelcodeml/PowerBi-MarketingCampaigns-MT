@@ -18,7 +18,10 @@ The data is transformed into new data and then it's extracted by ETL processes i
   <li>Funnel Sales for the courses of Automotive Electricity and Solar Panels</li>
   <li>Funnel Sales for the courses of Fiberglass Repair and Motorcycles</li>
   <li>Reach and Impressions for the courses of Automotive Electricity and Solar Panels</li>
+  <li>Cost trough clic (CTC) and Expenses by Campaign</li>  
 </ol>
+
+<h3>1. Record of leads or interested that requested information for Automotive Electricity and Solar Panels</h3>
 
 
 
