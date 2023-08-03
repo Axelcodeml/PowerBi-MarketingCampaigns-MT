@@ -8,7 +8,7 @@ By means of support of a new marketing team of strategies: marketers, publishers
 
 For that, the enterprise has one CRM software where the data is stored and managed in the Postgres program. With the SQL commands the necessary data is downloaded and then pre-processed in a script of Python, specifically in Notebook.
 
-The data is transformed into new data and then it's extracted by ETL processes in the Power BI tool for developing the dashboards and dynamic insights that the marketing team needs to visualize. 
+The data is transformed into new data and then it's extracted by ETL processes in the Power BI tool for developing the dashboards and dynamic insights that the marketing team needs to visualize. Even more it was required to create a data model and use DAX functions based on the calendarauto() function in order to see the series time of the registers
 
 <h3>List of insights</h3>
 
@@ -22,31 +22,37 @@ The data is transformed into new data and then it's extracted by ETL processes i
 </ol>
 
 <h3>1. Record of leads or interested that requested information for Automotive Electricity and Solar Panels</h3>
+This is a Time Series Graphic and table that show the number of leads that reach out for asking information and be interested in Automotive Electricity and Solar Panels.
 <blockquote>
   <img src="Images/TrackingCampaing1.JPG" alt="">
 </blockquote>
 
 <h3>2. Record of leads or interested that requested information for Fiberglass Repair and Motorcycles</h3>
+This is a Time Series Graphic and table that show the number of leads that reach out for asking information and be interested in Fiberglass Repair and Motorcycles.
 <blockquote>
   <img src="Images/TrackingCampaing2.JPG" alt="">
 </blockquote>
 
 <h3>3. Funnel Sales for the courses of Automotive Electricity and Solar Panels</h3>
+On the left side, we have stacked bars showing an explanation of funnel sales, the same is for the right side. 
 <blockquote>
   <img src="Images/Inscritos1.JPG" alt="">
 </blockquote>
 
 <h3>4. Funnel Sales for the courses of Fiberglass Repair and Motorcycles</h3>
+On the left side, we have stacked bars showing an explanation of funnel sales, the same is for the right side.
 <blockquote>
   <img src="Images/Inscritos2.JPG" alt="">
 </blockquote>
 
 <h3>5. Reach and Impressions for the courses of Automotive Electricity and Solar Panels</h3>
+On the left side, we have Reaches and Impressions by course, and on the right side we have comments, clicks on link and reactions.  
 <blockquote>
   <img src="Images/Impressions1.JPG" alt="">
 </blockquote>
 
 <h3>6. Cost through clic (CTC) and Expenses by Campaign</h3>
+It describes the cost by click in average by each course, and campaign expenses. 
 <blockquote>
   <img src="Images/ClicsRate.JPG" alt="">
 </blockquote>
