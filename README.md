@@ -23,6 +23,9 @@ The data is transformed into new data and then it's extracted by ETL processes i
 
 <h3>1. Record of leads or interested that requested information for Automotive Electricity and Solar Panels</h3>
 
+<blockquote>
+  <img src="Images/Inscritos1.JPG" alt="">
+</blockquote>
 
 
 
