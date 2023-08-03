@@ -12,13 +12,13 @@ The data is transformed into new data and then it's extracted by ETL processes i
 
 <h3>List of insights</h3>
 
-<ul>
+<ol type = "1">
   <li>Record of leads or interested that requested information for Automotive Electricity and Solar Panels</li>
   <li>Record of leads or interested that requested information for Fiberglass Repair and Motorcycles</li>
   <li>Funnel Sales for the courses of Automotive Electricity and Solar Panels</li>
   <li>Funnel Sales for the courses of Fiberglass Repair and Motorcycles</li>
   <li>Reach and Impressions for the courses of Automotive Electricity and Solar Panels</li>
-</ul>
+</ol>
 
 
 
