@@ -8,7 +8,13 @@ By means of support of a new marketing team of strategies: marketers, publishers
 
 For that, the enterprise has one CRM software where the data is stored and managed in the Postgres program. With the SQL commands the necessary data is downloaded and then pre-processed in a script of Python, specifically in Notebook.
 
-The data is transformed into new data and then it's extracted by ETL processes in the Power BI tool for developing the dashboards and dynamic insights that the marketing team needs to visualize. The first insight is the next.
+The data is transformed into new data and then it's extracted by ETL processes in the Power BI tool for developing the dashboards and dynamic insights that the marketing team needs to visualize. The insights are the next:
+
+<ul>
+  <li>Record of leads or interested that reached to the Whatsapp</li>
+</ul>
+
+
 
 
 
