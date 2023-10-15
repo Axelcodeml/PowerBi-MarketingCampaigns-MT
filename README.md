@@ -1,6 +1,6 @@
 # PowerBI-MarketingCampaigns-Jun2023-MT
 
-<h1><a href="https://powerbi.microsoft.com/" target="blank" rel="noopener noreferrer"># <i>PowerBi<i></a></h1>
+<h1><a href="https://powerbi.microsoft.com/" target="blank" rel="noopener noreferrer"># <i>PowerBI<i></a></h1>
 
 <h1> Data visualization of Marketing Campaigns by using Power BI</h1>
 
