@@ -25,35 +25,30 @@ The data is transformed into new data and then it's extracted by ETL processes i
 
 <h3>1. Record of leads or interested that requested information for Automotive Electricity and Solar Panels</h3>
 This is a Time Series Graphic and table that show the number of leads that reach out for asking information and be interested in Automotive Electricity and Solar Panels.
-
+</br>
   <img src="Images/TrackingCampaing1.JPG" alt="">
 
 <h3>2. Record of leads or interested that requested information for Fiberglass Repair and Motorcycles</h3>
 This is a Time Series Graphic and table that show the number of leads that reach out for asking information and be interested in Fiberglass Repair and Motorcycles.
-<blockquote>
+</br>
   <img src="Images/TrackingCampaing2.JPG" alt="">
-</blockquote>
 
 <h3>3. Funnel Sales for the courses of Automotive Electricity and Solar Panels</h3>
 On the left side, we have stacked bars showing an explanation of funnel sales, the same is for the right side. 
-<blockquote>
+</br>
   <img src="Images/Inscritos1.JPG" alt="">
-</blockquote>
 
 <h3>4. Funnel Sales for the courses of Fiberglass Repair and Motorcycles</h3>
 On the left side, we have stacked bars showing an explanation of funnel sales, the same is for the right side.
-<blockquote>
+</br>
   <img src="Images/Inscritos2.JPG" alt="">
-</blockquote>
 
 <h3>5. Reach and Impressions for the courses of Automotive Electricity and Solar Panels</h3>
 On the left side, we have Reaches and Impressions by course, and on the right side we have comments, clicks on link and reactions.  
-<blockquote>
+</br>
   <img src="Images/Impressions1.JPG" alt="">
-</blockquote>
 
 <h3>6. Cost through clic (CTC) and Expenses by Campaign</h3>
 It describes the cost by click in average by each course, and campaign expenses. 
-<blockquote>
+</br>
   <img src="Images/ClicsRate.JPG" alt="">
-</blockquote>
